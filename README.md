@@ -50,10 +50,9 @@ Meu foco é construir scripts e automações em Python que resolvem problemas re
 ## 📊 Meus Status no GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauan-Ferreira&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan-Ferreira&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauan-Ferreira&show_icons=true&theme=tokyonight&v=1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Ferreira&layout=compact&theme=tokyonight&v=1" height="170" />
 </p>
-
 ---
 
 ## 🚀 Filosofia
